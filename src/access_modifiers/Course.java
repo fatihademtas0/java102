@@ -1,4 +1,4 @@
-package access_modifiers.Static;
+package access_modifiers;
 
 public class Course {
     public  String name;
