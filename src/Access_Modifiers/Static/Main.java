@@ -1,6 +1,4 @@
-package access_modifiers;
-
-import access_modifiers.Course;
+package Access_Modifiers.Static;
 
 public class Main {
     public static void main(String[] args) {
