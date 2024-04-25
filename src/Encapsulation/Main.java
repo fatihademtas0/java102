@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         Book harryPotter = new Book("Harry Potter", 850);
 
-        Book lotr = new Book("Lord Of The Rings", 1300);
+        Book lotr = new Book("Lord Of The Rings", -90);
 
         // harryPotter.pageNumber = 900; not working because pageNumber is private
         // all other variables are private
