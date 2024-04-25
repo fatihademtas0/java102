@@ -8,7 +8,9 @@ public class Main {
 
         Course physic = new Course("Pyhsic" , "phy101",40);
 
-        int[] notes ={math.note, eng.note, physic.note};
+        Course biology = new Course("Biology" , "bio101" ,55);
+
+        int[] notes ={math.note, eng.note, physic.note , biology.note};
 
         // We called the method inside Course class without creating objects
         Course.calcaverage(notes);
