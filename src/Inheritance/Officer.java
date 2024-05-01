@@ -29,4 +29,9 @@ public class Officer extends Worker {
     public void work() {
         System.out.println(this.getName() + " is working.");
     }
+
+    @Override
+    public void enter(){
+        System.out.println("Officer "+this.getName()+" entered the university.");
+    }
 }

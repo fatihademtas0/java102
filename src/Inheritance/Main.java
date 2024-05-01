@@ -29,5 +29,12 @@ public class Main {
 
         ofc2.enter();
 
+        Security sc1 = new Security("Talha", "05777777777", "abcde", "CENG", "09-18", "None");
+
+        // POLYMORPHİSM
+        Worker[] usersLogin = {wr1, wr2, int1, ofc1, sc1};
+
+        Worker.checkLogin(usersLogin);
+
     }
 }

@@ -29,4 +29,9 @@ public class Instructor extends Worker {
     public void attendClass(Worker worker) {
         System.out.println(worker.getName() + " attended to class.");
     }
+
+    @Override
+    public void enter() {
+        System.out.println("Instructor " + this.getName() + " entered the university.");
+    }
 }

@@ -46,4 +46,10 @@ public class Worker {
     public void diningHall() {
         System.out.println(this.name + " entered the university.");
     }
+
+    public static void checkLogin(Worker[] users) {
+        for (Worker user : users) {
+            user.enter();
+        }
+    }
 }

@@ -19,4 +19,9 @@ public class Security extends Officer {
     public void guard() {
         System.out.println(this.getName() + " stood guard.");
     }
+
+    @Override
+    public void enter() {
+        System.out.println("Security " + this.getName() + " entered the university.");
+    }
 }
