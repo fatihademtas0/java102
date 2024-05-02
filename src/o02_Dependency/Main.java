@@ -1,4 +1,4 @@
-package Dependency02;
+package o02_Dependency;
 
 public class Main {
     public static void main(String[] args) {

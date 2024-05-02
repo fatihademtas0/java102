@@ -1,4 +1,4 @@
-package Inheritance04;
+package o04_Inheritance;
 
 public class Worker {
     private String name;

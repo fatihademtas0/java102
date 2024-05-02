@@ -1,4 +1,4 @@
-package Encapsulation03;
+package o03_Encapsulation;
 
 public class Main {
     public static void main(String[] args) {

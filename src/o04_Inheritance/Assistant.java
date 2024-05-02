@@ -1,4 +1,4 @@
-package Inheritance04;
+package o04_Inheritance;
 
 public class Assistant extends Instructor {
     private String shift;

@@ -1,4 +1,4 @@
-package Encapsulation03;
+package o03_Encapsulation;
 
 public class Book {
     private String name;

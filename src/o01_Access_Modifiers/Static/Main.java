@@ -1,4 +1,4 @@
-package Access_Modifiers01.Static;
+package o01_Access_Modifiers.Static;
 
 public class Main {
     public static void main(String[] args) {
