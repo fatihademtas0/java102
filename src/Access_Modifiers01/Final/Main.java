@@ -1,4 +1,4 @@
-package Access_Modifiers.Final;
+package Access_Modifiers01.Final;
 
 public class Main {
     public static void main(String[] args) {
