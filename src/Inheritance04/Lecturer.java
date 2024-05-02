@@ -1,4 +1,4 @@
-package Inheritance;
+package Inheritance04;
 
 public class Lecturer extends Instructor {
     private String doorNo;

@@ -1,4 +1,4 @@
-package Inheritance;
+package Inheritance04;
 
 public class LabAssistant extends Assistant {
     public LabAssistant(String name, String phone, String mail, String section, String title, String shift) {

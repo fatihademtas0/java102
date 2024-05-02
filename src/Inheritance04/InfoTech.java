@@ -1,4 +1,4 @@
-package Inheritance;
+package Inheritance04;
 
 public class InfoTech extends Officer {
     private String mission;

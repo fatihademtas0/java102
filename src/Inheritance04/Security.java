@@ -1,4 +1,4 @@
-package Inheritance;
+package Inheritance04;
 
 public class Security extends Officer {
     private String document;
