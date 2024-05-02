@@ -1,4 +1,4 @@
-package Dependency;
+package Dependency02;
 
 public class Course {
     private String name;
