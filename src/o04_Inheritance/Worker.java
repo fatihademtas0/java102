@@ -5,7 +5,7 @@ public class Worker {
     private String phone;
     private String mail;
 
-    Worker(String name, String phone, String mail) {
+    Worker(String name, String phone, String  mail) {
         this.name = name;
         this.phone = phone;
         this.mail = mail;
