@@ -10,5 +10,9 @@ public class Main {
 
         // empty
         String s3= "";
+
+        Nullable n1 = new Nullable(s2);
+
+        n1.run();
     }
 }

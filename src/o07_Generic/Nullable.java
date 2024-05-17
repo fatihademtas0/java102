@@ -10,4 +10,15 @@ public class Nullable {
     public String getValue() {
         return value;
     }
+
+    public boolean isNull() {
+        return this.value == null;
+    }
+
+    public void run() {
+        if (isNull()) {
+            System.out.println("This variable is null !");
+        } else
+            System.out.println(this.value);
+    }
 }
