@@ -2,17 +2,12 @@ package o07_Generic;
 
 public class Main {
     public static void main(String[] args) {
-        // undefined
-        String s1;
+        String[] a = {"Fatih" , "Esra" , "Ali"};
 
-        // null
-        String s2 = null;
+        Integer[] b = {1 , 2, 3, 4};
 
-        // empty
-        String s3= "";
+        Character[] c = {'J' , 'A' , 'V' , 'A'};
 
-        Nullable n1 = new Nullable(s2);
-
-        n1.run();
+        Print.printArray(a,b);
     }
 }
